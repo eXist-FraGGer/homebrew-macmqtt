@@ -7,7 +7,7 @@ cask "macmqtt" do
   desc "MQTT-мост для управления Mac из любого умного дома"
   homepage "https://github.com/eXist-FraGGer/macmqtt"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "macmqtt.app"
 
