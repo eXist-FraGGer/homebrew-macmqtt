@@ -1,6 +1,6 @@
 cask "macmqtt" do
-  version "0.2.1"
-  sha256 "ed4e61308128ea2dfb1628b6926ae7458fdb755333e0bd2a71d68e4fd4e86de4"
+  version "0.2.2"
+  sha256 "fb86e3144c1cfe45992d0ff3bd7ca64e8273b75705ac3105c708be22411af055"
 
   url "https://github.com/eXist-FraGGer/macmqtt/releases/download/v#{version}/macmqtt-#{version}.zip"
   name "macmqtt"
